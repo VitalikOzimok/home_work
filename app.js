@@ -1,3 +1,3 @@
 function abc() {
-  console.log("ПРивет мир!");
+  console.log("Здравствуй мир!");
 }
