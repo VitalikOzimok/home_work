@@ -1,4 +1,4 @@
 function abc() {
-  console.log("Здравствуй мир!");
+  console.log("Здравствуй мим!");
 }
 abc();
